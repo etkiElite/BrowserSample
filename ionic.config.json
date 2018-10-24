@@ -1,0 +1,7 @@
+{
+  "name": "BrowserSample",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
